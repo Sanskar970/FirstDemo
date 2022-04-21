@@ -1,3 +1,5 @@
 Emoji
 Textchat
 color
+
+Video call
